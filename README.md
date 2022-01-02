@@ -24,4 +24,12 @@ Some of the sample model predictions on different synthetic datasets are shown b
 We used grid search to explore and find the optimum solution to the model parameters.
 
 ### c. Random Search Optimizer
-We randomly explore the model's parameter search space and limit our search by maximum allowed iterations (compute budget). This random exploration is finally used to select the best solution found of the model parameters. 
+We randomly explore the model's parameter search space and limit our search by maximum allowed iterations (compute budget). This random exploration is finally used to select the best 
+solution found of the model parameters. 
+
+### d. Sklearn's Optimizers
+We are exploring Random Forest and Decision Tree models
+![Random Data-1](docs/random_forest.png)
+![Random Data-2](docs/random_forest2.png)
+
+
